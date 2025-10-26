@@ -1,0 +1,30 @@
+{
+  "name": "atividadeppi01reajustedesalario",
+  "version": "1.0.0",
+  "description": "Primeira atividade de PPI (reajuste salarial)",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Caaiomf/AtividadePPI01ReajusteDeSalario.git"
+  },
+  "keywords": [
+    "http",
+    "express",
+    "node",
+    "ppi"
+  ],
+  "author": "Caio Matheus Favarao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Caaiomf/AtividadePPI01ReajusteDeSalario/issues"
+  },
+  "homepage": "https://github.com/Caaiomf/AtividadePPI01ReajusteDeSalario#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
